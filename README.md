@@ -1,3 +1,5 @@
+Opentelemetry是CNCF下的开源项目，CNCF下的项目还有：k8s、containerd、etcd、coredns、fluentd、helm、jaeger、prometheus、cilium、cni、cri-o、grpc、k3s、falco等。
+
 # OpenTelemetry-Go
 
 [![CI](https://github.com/open-telemetry/opentelemetry-go/workflows/ci/badge.svg)](https://github.com/open-telemetry/opentelemetry-go/actions?query=workflow%3Aci+branch%3Amain)
